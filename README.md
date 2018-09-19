@@ -1,4 +1,4 @@
-# Pelatihan Keilmuan 2 OKIF FTUH, Collaboration With Developer Students Club
+# Pelatihan Keilmuan 2 OKIF FTUH, Collaboration With Developer Student Clubs
 
 Source code ini dibuat untuk kebutuhan pelatihan keilmuan 2
 
