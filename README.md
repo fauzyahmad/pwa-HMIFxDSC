@@ -14,7 +14,7 @@ Atau, jika step git clone diatas tidak bisa, download file projectnya dengan men
 https://github.com/fauzyahmad/pwa-HMIFxDSC/archive/master.zip
 ```
 
-Install Npm di dalam direktori project dengan mengetikkan di terminal:
+Buka command prompt, masuk ke dalam direktori yang telah didownload tadi, Install Npm di dalam direktori project dengan mengetikkan:
 
 ```
 npm install
@@ -24,7 +24,7 @@ Buka lagi Command Prompt / Terminal. Install http-server, gunanya sebagai local 
 ```
 npm install -g http-server
 ```
-Masuk ke direktori project, ketikkan di command prompt:
+Masuk ke direktori project melalui command prompt, lalu ketikkan:
 
 ```
 http-server -a localhost -0 -c
