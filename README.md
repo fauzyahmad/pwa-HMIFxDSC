@@ -29,3 +29,7 @@ Masuk ke direktori project melalui command prompt, lalu ketikkan:
 ```
 http-server -a localhost -0 -c
 ```
+Lihat di browser Chrome project anda dengan mengetikkan url:
+```
+localhost:8080
+```
