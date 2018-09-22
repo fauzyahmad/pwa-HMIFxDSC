@@ -9,6 +9,11 @@ Pertama-tama, buka command prompt (Windows) atau Terminal (Linux, Mac) dan pilih
 ```
 git clone https://github.com/fauzyahmad/pwa-HMIFxDSC.git
 ```
+Atau, jika step git clone diatas tidak bisa, download file projectnya dengan menuju link berikut:
+```
+https://github.com/fauzyahmad/pwa-HMIFxDSC/archive/master.zip
+```
+
 Install Npm di dalam direktori project dengan mengetikkan di terminal:
 
 ```
